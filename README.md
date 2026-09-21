@@ -18,7 +18,7 @@ I build large-scale backend systems in .NET. Most recently I led backend develop
 
 ## 🏥 Highlight
 
-Led the backend of a **national Hospital Management System** — 800+ hospitals, 10M citizens, 30+ microservices on ASP.NET Core, RabbitMQ, Redis and Elasticsearch. Before that: a government health-insurance platform, a multi-vendor e-commerce marketplace, and a live UEFA ↔ CBC Sport data integration.
+Led the backend of a **national Hospital Management System** — 800+ hospitals, 30+ microservices on ASP.NET Core, RabbitMQ, Redis and Elasticsearch. Before that: a government health-insurance platform, a multi-vendor e-commerce marketplace, and a live UEFA ↔ CBC Sport data integration.
 
 ---
 
