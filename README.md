@@ -8,11 +8,11 @@ I build large-scale backend systems in .NET. Most recently I led backend develop
 
 ## 🛠 Tech Stack
 
-**Backend:** C# · .NET 8/9/10 · ASP.NET Core · Web API · SignalR · EF Core · Dapper
-**Architecture:** Microservices · Distributed Systems · REST API Design · SOLID
-**Data:** SQL Server · PostgreSQL · Redis · Elasticsearch
-**Messaging & Infra:** RabbitMQ · Docker · Azure · CI/CD · IIS
-**Tools:** Git · GitHub · GitLab · Jira · Confluence
+- **Backend:** C# · .NET 8/9/10 · ASP.NET Core · Web API · SignalR · EF Core · Dapper
+- **Architecture:** Microservices · Distributed Systems · REST API Design · SOLID
+- **Data:** SQL Server · PostgreSQL · Redis · Elasticsearch
+- **Messaging & Infra:** RabbitMQ · Docker · Azure · CI/CD · IIS
+- **Tools:** Git · GitHub · GitLab · Jira · Confluence
 
 ---
 
