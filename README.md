@@ -29,4 +29,4 @@ Led the backend of a **national Hospital Management System** — 800+ hospitals,
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbasAkbar&show_icons=true&hide_border=true&theme=default)
+![GitHub stats](https://github-readme-stats-gwq7.vercel.app/api?username=AbbasAkbar&show_icons=true&hide_border=true&theme=default)
