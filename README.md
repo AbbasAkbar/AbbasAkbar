@@ -2,9 +2,7 @@
 
 **Head of Software Engineering @ Frazex** · Senior .NET Backend Engineer · Baku, Azerbaijan (UTC+4)
 
-I build large-scale backend systems in .NET. Most recently I led backend development of Azerbaijan's national Hospital Management System — a platform used by **800+ hospitals**, serving **10 million people**, built on **30+ microservices**.
-
-Today I lead a 10-person engineering team while staying hands-on with architecture, code reviews, and core backend work.
+I build large-scale backend systems in .NET. Most recently I led backend development of Azerbaijan's national Hospital Management System — a platform used by **800+ hospitals**, built on **30+ microservices**.
 
 ---
 
